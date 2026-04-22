@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in Aurora, US
 
-> Free BeamStation sample export with 34 rows and masked direct-contact fields.
+> Free BeamStation sample export with 29 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `466219` |
 | Location | Aurora |
 | Category | Restaurants |
-| Full dataset size | 348 records |
-| Free sample size | 34 records (9.77%) |
-| Last export | 2026-04-15T00:03:06.697227+00:00 |
+| Full dataset size | 295 records |
+| Free sample size | 29 records (9.83%) |
+| Last export | 2026-04-22T03:57:47.900906+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-aurora-us-sample-466219/releases/download/sample-latest/beamstation_466219_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
