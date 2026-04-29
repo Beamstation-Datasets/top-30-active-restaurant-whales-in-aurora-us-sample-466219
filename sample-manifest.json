@@ -1,12 +1,12 @@
 {
-  "export_job_id": "82ecc783-dacf-45fa-96ec-7e6d2896a4af",
+  "export_job_id": "a02f3c9e-1d46-413e-9864-c769f104bda5",
   "id_short": 466219,
-  "published_at": "2026-04-22T07:31:55Z",
+  "published_at": "2026-04-29T07:39:47Z",
   "repo_name": "top-30-active-restaurant-whales-in-aurora-us-sample-466219",
   "sample_asset_name": "beamstation_466219_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/466219/beamstation_466219_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_records": 29,
-  "sample_sha256": "4719defb0dc9407947e75310d5fd2865db7c6e7a95634a76e5f8ed1f01c8989b",
-  "sample_size_bytes": 130575,
-  "total_records": 295
+  "sample_records": 9,
+  "sample_sha256": "77866837ab19a6009c8b566c9f178c8a782adfae60ca5b4734f2cb104ded7910",
+  "sample_size_bytes": 54405,
+  "total_records": 94
 }
